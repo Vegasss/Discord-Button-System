@@ -1,0 +1,24 @@
+{
+    "Bot": {
+     "Token": "",
+     "Owners": [],
+     "Prefix": ["!", ".", "r!"],
+     "Durum": "",
+     "Status": ""
+    },
+
+    "Server": {
+     "GuildID": ""
+    },
+    
+    "Channels": {
+     "VoiceChannelID": ""
+    },
+
+    "Roles": {
+     "VK": "",
+     "DC": "",
+     "GoLive": ""
+    }
+
+}
